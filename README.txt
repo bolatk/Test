@@ -1,2 +1,1 @@
-This is README file.
-
+This's a Test GIT project
